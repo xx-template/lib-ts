@@ -17,7 +17,6 @@
     "yaml",
     "toml"
   ],
-  "editor.rulers": [80, 120],
   "editor.tabSize": 2,
   "editor.insertSpaces": true,
   "typescript.preferences.includePackageJsonAutoImports": "on",
